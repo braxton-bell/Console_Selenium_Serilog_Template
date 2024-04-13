@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Console_Selenium_Serilog_Template", "Console_Selenium_Serilog_Template\Console_Selenium_Serilog_Template.csproj", "{A7A244EB-B95C-4F4A-88D1-2F3514705A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7A244EB-B95C-4F4A-88D1-2F3514705A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7A244EB-B95C-4F4A-88D1-2F3514705A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7A244EB-B95C-4F4A-88D1-2F3514705A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7A244EB-B95C-4F4A-88D1-2F3514705A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {963896D2-E99D-4CA2-B86C-9BE5292F64B0}
+	EndGlobalSection
+EndGlobal

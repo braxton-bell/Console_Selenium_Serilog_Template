@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Console_Selenium_Serilog_Template": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "AppConfig__DevOptions__Sandbox": "true",
+        "AppConfig__BrowserConfig__EnableProxy": "false",
+        "AppConfig__BrowserConfig__EnablePersistentProfile": "true"
+      }
+    }
+  }
+}
